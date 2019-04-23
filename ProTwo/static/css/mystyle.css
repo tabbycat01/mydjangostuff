@@ -1,0 +1,10 @@
+h1{
+    color:rgb(120, 120, 202);
+}
+h2{
+    color:rgb(87, 43, 170);
+}
+.outer_list{
+    border: 2px solid rgb(35, 9, 107);
+    padding: 10px;
+}
